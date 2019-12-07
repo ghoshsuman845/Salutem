@@ -515,7 +515,7 @@ td:last-child {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #121212;
+  background-color: #172a39;
   /* min-width: 160px;  */
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -531,7 +531,7 @@ td:last-child {
 }
 
 .dropdown-content a:hover {
-  background-color: #000;
+  background-color: rgb(42, 68, 92);
 }
 
 .dropdown:hover .dropdown-content {
@@ -1459,7 +1459,7 @@ body.menu-is-open {
 }
 
 .darker {
-  background-color: #0f0f0f;
+  background-color: #313C45;
 }
 
 /* ------------------------------------------------------------------- 
@@ -1732,7 +1732,7 @@ body.menu-is-open {
   padding: 3.6rem 3rem 3.6rem 6rem;
   height: 100%;
   width: 50%;
-  background: #0C0C0C;
+  background: #172a39;
   color: rgba(255, 255, 255, 0.25);
   overflow-y: auto;
   overflow-x: hidden;
@@ -1955,7 +1955,7 @@ body.menu-is-open {
 }
 
 .header-menu-toggle.opaque {
-  background-color: #000000;
+  background-color: #172a39;
 }
 
 .header-menu-icon {
@@ -2790,8 +2790,9 @@ html.no-csstransitions .home-content__main {
 .s-about {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  background-color: #121212;
+  background-color: #2D3E50;
   position: relative;
+  color: #fff;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3102,6 +3103,7 @@ html.no-csstransitions .home-content__main {
   padding-top: 18rem;
   padding-bottom: 18rem;
   position: relative;
+  background-color: #313C46;
 }
 
 .s-works::before {
@@ -3712,7 +3714,7 @@ html.no-csstransitions .home-content__main {
 .s-contact {
   padding-top: 16.2rem;
   padding-bottom: 21rem;
-  background: linear-gradient(to right, #1723b1,#58f0ff);
+  background: linear-gradient(to right, #42586d, #0f2d4a);
   color: rgba(255, 255, 255, 0.6);
   text-align: center;
   position: relative;
@@ -3930,8 +3932,8 @@ footer {
   padding-top: 9rem;
   padding-bottom: 6rem;
   color: rgba(255, 255, 255, 0.6);
-  background: linear-gradient(to right, #1723b1,#58f0ff);
-   border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background: linear-gradient(to right, #42586d, #0f2d4a);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
   text-align: center;
   position: relative;
 }
@@ -3961,7 +3963,7 @@ footer a {
 
 .ss-go-top a {
   color: #FFFFFF;
-  background-color: #1723b1;
+  background-color: #1a3752;
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -4000,7 +4002,7 @@ footer a {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: #2d173d;
+  background-color: #1a3752;
 }
 
 /* ------------------------------------------------------------------- 
