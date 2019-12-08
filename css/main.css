@@ -1831,18 +1831,18 @@ body.menu-is-open {
   counter-increment: ctr;
   font-family: "Montserrat", sans-serif;
   font-size: 11px;
-  color: rgba(255, 255, 255, 0.25);
+  color: rgba(255, 255, 255, 0);
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   position: relative;
 }
 
 .header-nav__list a:hover::before {
-  color: #37eaf9;
+  /* color: #37eaf9; */
 }
 
 .header-nav__list .current a::before {
-  color: #37eaf9;
+  /* color: #37eaf9; */
 }
 
 .header-nav__social {
