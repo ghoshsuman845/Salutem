@@ -3163,6 +3163,8 @@ html.no-csstransitions .home-content__main {
   vertical-align: bottom;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
+  width: 100%;
+  background-size: cover;
 }
 
 .item-folio__thumb a {
